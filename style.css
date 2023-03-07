@@ -1,0 +1,19 @@
+
+.myinfo
+{
+    width: 30%;
+    height: 120%;
+    background-color:crimson;    
+    float: right;  
+    font-family:Arial, Helvetica, sans-serif;
+}
+.content
+{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heads
+{
+    
+    text-decoration: cornsilk;
+}
