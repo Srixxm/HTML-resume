@@ -3,17 +3,27 @@
 {
     width: 30%;
     height: 120%;
-    background-color:crimson;    
+    background-color:red;    
     float: right;  
     font-family:Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right,white,rgb(111, 111, 219));
+color: rgb(0, 0, 0);
 }
-.content
-{
-    color: aliceblue;
+.educatioLFBn
+{ 
+    color: rgb(0, 0, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .heads
 {
     
-    text-decoration: cornsilk;
+    text-decoration: rgb(0, 0, 0);
+}
+body
+{
+    background-image: linear-gradient(to right,white,rgb(124, 124, 241));
+}
+.objective
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
